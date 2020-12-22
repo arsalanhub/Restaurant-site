@@ -1,5 +1,0 @@
-//To avoid rounded border
-border-radius: 0;
-
-//No border at all
-border: 0;
